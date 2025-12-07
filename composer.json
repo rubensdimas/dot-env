@@ -1,5 +1,5 @@
 {
-    "name": "rubensdimas/dot-env",
+    "name": "crefito11/dot-env",
     "description": "A simple library for managing environment variables in PHP. Created by William Costa.",
     "type": "library",
     "require": {
@@ -8,7 +8,7 @@
     "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
-            "Rubensdimas\\DotEnv\\": "src/"
+            "Crefito11\\DotEnv\\": "src/"
         }
     },
     "authors": [
